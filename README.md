@@ -60,5 +60,5 @@ First clone the repository into your home directory and follow the steps.
 Adithya Reddy Boravelly  
 Birmingham, Alabama, US  
 Phone: (205) 253-5613  
-Email: boravellyadithyareddy@gmail.com  
+Email: adithyareddyboravelly@gmail.com 
 GitHub: https://github.com/adithyab20/Reddit-Data-Ops-Pipeline
